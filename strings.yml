@@ -2,7 +2,7 @@
 # -
 # Configure the strings below however suits your needs
 ---
-title: Slack Invite Request Demo
+title:Panhandle Enlightened Slack Invite Request
 main:
   header:
     blurb: "Join us on Slack!"
@@ -13,12 +13,11 @@ main:
       "We look forward to seeing you there."
   about:
     team:
-      name: "Enlightened Demo"
-      link: "https://enlightened.slack.com"
+      name: "Panhandle Enlightened"
+      link: "https://smurftears.slack.com"
       description:
-        "This is just a SIR demo. Please feel free to send an application (we
-        enjoy reading your comments), but no invites will be sent out as a
-        result."
+        "Our goal is to bring enlightment to all the citizens of Pensacola and the surrounding areas, creating
+		copius amounts of smurf tears along the way."
 apply:
   # Displayed at the top of the page
   header:
