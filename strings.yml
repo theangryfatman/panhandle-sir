@@ -16,8 +16,7 @@ main:
       name: "Panhandle Enlightened"
       link: "https://smurftears.slack.com"
       description:
-        "Our goal is to bring enlightment to all the citizens of Pensacola and the surrounding areas, creating
-		copius amounts of smurf tears along the way."
+        "Our goal is to bring enlightment to all the citizens of Pensacola and the surrounding areas, creating copius amounts of smurf tears along the way."
 apply:
   # Displayed at the top of the page
   header:
