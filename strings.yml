@@ -15,9 +15,7 @@ main:
       name: "Panhandle Enlightened"
       link: "https://smurftears.slack.com"
       description:
-        "This is just a SIR demo. Please feel free to send an application (we
-        enjoy reading your comments), but no invites will be sent out as a
-        result."
+        "Ingress quick start guide: https://plus.google.com/+VerenaNi/posts/LciaHsfDdbB?pid=6036572997546620818&oid=117102979344595032968"
 apply:
   # Displayed at the top of the page
   header:
