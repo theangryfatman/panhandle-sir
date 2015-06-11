@@ -28,5 +28,5 @@ input:not([type=submit]):not([type=file]), textarea {
 }
 
 .jumbotron {
-  background-color: 6eff6d;
+  background-color: #6eff6d;
 }
