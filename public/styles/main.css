@@ -31,8 +31,9 @@ input:not([type=submit]):not([type=file]), textarea {
   background-color: #6eff6d;
 }
 .btn-primary {
-  background-color: #052305
+  background-color: #052305;
+  border-color: #000;
 }
 .btn-primary:hover {
-  background-color: #052305
+  background-color: #052305;
 }
