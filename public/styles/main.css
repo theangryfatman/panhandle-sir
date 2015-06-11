@@ -33,3 +33,6 @@ input:not([type=submit]):not([type=file]), textarea {
 .btn-primary {
   background-color: #052305
 }
+.btn-primary:hover {
+  background-color: #052305
+}
